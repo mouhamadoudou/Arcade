@@ -1,0 +1,9 @@
+Here are the instructions for adding a game:
+- create a class inherited from IGames
+- create a map variable in which you will store the 2d map as a std::vector<std::string>.
+- create a _move variable of type std::string in which you will store all the keys clicked by the player in lowercase format
+- create a setEvent function that allows you to put in the _move variable what will be received as an argument.
+- create an update() function that updates your game taking into account the events in your _move, then reset _move.
+- create a getMap function that returns the map
+- create a getAssets function which sends a std::map<char, std::string> which is used to associate each character of your map with the path of a png file
+- You can then add the lib to the CMakeList and you're done!

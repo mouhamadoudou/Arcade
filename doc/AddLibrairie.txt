@@ -1,0 +1,9 @@
+Here are the instructions for adding a graphics library:
+- Create a class that inherits from ILib
+- create the setMap function which allows to set a map as a std::vector<std::string>.
+- create the getEvent function which returns the keys that are clicked by the user as a lower case std::string. It should also close the window if the "q" key is clicked  
+- create the isOpen which returns if the game window is open
+- create the setAsset function which must allow to link a character of the map with a png texture
+- create the draw function which must display the game.
+- create the drawMenu function which must display a menu specific to the graphic library
+- You can then add the lib to the CMakeList and you're done!

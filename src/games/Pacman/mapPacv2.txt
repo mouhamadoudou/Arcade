@@ -1,0 +1,21 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+X............XB...........X
+X.XXXXX.XXXX.X.XXXX.XXXXX.X
+X.XXXXX.XXXX.XXX.XX.XXXXX.X
+X............X............X
+XXXXXX.XXXXX.X XXXXX.XXXXXX
+     X.XXXXX.X XXXXX.X     
+     X.XX....B....XX.X      
+     X.XX/XXXXXXX.XX.X     
+XXXXXX.XX.X     X.XX.XXXXXX
+XB........X     X........BX
+XXXXXX.XX.X     X.XX.XXXXXX
+     X.XX.XXXXXXX.XX.X     
+     X.XX....B....XX.X     
+     X.XXXX.XXX.XXXX.X     
+XXXXXX.XXXX.XXX.XXXX.XXXXXX
+X.......XXX.XXX.XXX.......X
+X..X.XX......P......XX.X..X
+XX.X.XX.XXX.XXX.XXX.XX.X.XX
+X.........................X
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
